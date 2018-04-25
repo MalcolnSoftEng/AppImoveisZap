@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZAP</string>
+    <string name="descricao">IPSIS LOTERICUS FODÉRICUS ZINCRUS STANILOVISKIS PELÓSVISKIS IPSIS LOTERICUS FODÉRICUS ZINCRUS STANILOVISKIS PELÓSVISKIS IPSIS LOTERICUS FODÉRICUS ZINCRUS STANILOVISKIS PELÓSVISKIS</string>
+
+    <string name="menu_buscar">acaobuscar</string>
+    <string name="stringstatuswebservice">nenhum imóvel encontrado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
